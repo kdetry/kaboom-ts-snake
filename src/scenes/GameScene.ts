@@ -7,7 +7,6 @@ import {
   MoveDelay,
 } from "../AppConstants";
 
-import { DirectionChanger } from "../actions/DirectionChanger";
 import { DirectionKeyPressGenerator } from "../actions/DirectionKeyPressGenerator";
 import { KI } from "../KaboomInstance";
 import { MapItem } from "../gameobjects/MapItem/MapItem";

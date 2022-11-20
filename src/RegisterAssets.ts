@@ -1,5 +1,4 @@
-import { GameSounds, GameSprites } from "./AppConstants";
-
+import { GameSprites } from "./AppConstants";
 import { KI } from "./KaboomInstance";
 import { getKeys } from "./utils/getKeys";
 

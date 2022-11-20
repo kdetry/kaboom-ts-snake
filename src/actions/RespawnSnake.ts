@@ -3,7 +3,6 @@ import {
   DefaultDirection,
   DefaultSnakeLength,
   EDirections,
-  EGameObjectTag,
 } from "../AppConstants";
 
 import { KI } from "../KaboomInstance";
